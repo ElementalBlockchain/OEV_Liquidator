@@ -1,0 +1,8 @@
+# don't push to github
+.env
+unit_tests.py
+log.text
+.hypothesis/
+__pycache__/
+*.py[cod]
+*$py.class

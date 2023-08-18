@@ -1,0 +1,20 @@
+MIN_BID=
+WRAPPED_NETWORK_TOKEN=
+PREPAYMENT_DEPOSIT_ADDRESS=
+PREPAYMENT_DEPOSIT_CHAIN=
+RPC=
+API=https://api-oev.api3.org/api/
+
+PRIV_KEY=
+TEST_KEY=
+
+WETH=
+USDC=
+
+LP_POOL =
+V2_SWAP =
+V3_SWAP =
+
+Api3ServerV1 =
+USDCoevDatafeedProxy =
+WETHoevDatafeedProxy =
