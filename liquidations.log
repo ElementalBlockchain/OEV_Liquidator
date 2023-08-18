@@ -1,0 +1,1675 @@
+2023-08-18 01:16:26 - INFO - 2023-08-18 01:16:26 Starting Execution using searcher 0x4152465e8A592a8b4D2c74141d8a0013895a15fC
+2023-08-18 01:16:31 - INFO - found 58 loans, 36 of which under health factor of 1.2
+2023-08-18 01:16:32 - INFO - Native Network Token Price: 1690.93
+2023-08-18 01:16:32 - INFO - running task to keep loan database updated
+2023-08-18 01:16:32 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:16:32 - INFO - running task to settle any possible liquidations
+2023-08-18 01:16:47 - INFO - updating loan data
+2023-08-18 01:16:51 - INFO - found 58 loans, 36 of which under health factor of 1.2
+2023-08-18 01:16:52 - INFO - checking loans
+2023-08-18 01:16:52 - INFO - 
+2023-08-18 01:16:52 - INFO - User 0xf12656573a7809ec5463f8a65225afa8ff31ad85 liquidation information:
+2023-08-18 01:16:53 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:16:53 - INFO - 	Liquidation Price: 1.1524, Total Collateral In USD: 16479.4637
+2023-08-18 01:16:53 - INFO - 	Total Borrow In USD: 13915.2019, Health Factor: 1.006636064849197
+2023-08-18 01:16:53 - INFO - 	profit potential: 2455.623869887635, bid amount: 0.07261163590117968
+2023-08-18 01:16:53 - INFO - 	bid on $1.152352911351113 TWAVE, TWAVE current price: 1.159691
+2023-08-18 01:16:53 - INFO - 	2023-08-18 01:16:53 placed bid: 6fc83757-2fa9-4c73-91c9-0c94ef6e46eb
+
+2023-08-18 01:16:53 - INFO - 
+2023-08-18 01:16:53 - INFO - User 0xe3bff9fe31d149f2503857d743066499eee5d322 liquidation information:
+2023-08-18 01:16:54 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:16:54 - INFO - 	Liquidation Price: 1.0950, Total Collateral In USD: 94659.8057
+2023-08-18 01:16:54 - INFO - 	Total Borrow In USD: 75953.4475, Health Factor: 1.05934407780457
+2023-08-18 01:16:54 - INFO - 	profit potential: 13403.549561039457, bid amount: 0.3963366183413701
+2023-08-18 01:16:54 - INFO - 	bid on $1.0950172132967728 TWAVE, TWAVE current price: 1.15963
+2023-08-18 01:16:54 - INFO - 	2023-08-18 01:16:54 placed bid: 4361c24d-5b11-4d69-b21b-442d81ad4877
+
+2023-08-18 01:16:54 - INFO - 
+2023-08-18 01:16:54 - INFO - User 0xd42450fb6e33e0b50d0efd379420eabaeecb5425 liquidation information:
+2023-08-18 01:16:54 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:16:54 - INFO - 	Liquidation Price: 1.2412, Total Collateral In USD: 9864.3902
+2023-08-18 01:16:54 - INFO - 	Total Borrow In USD: 8971.3341, Health Factor: 0.9346136855729845
+2023-08-18 01:16:54 - INFO - 	profit potential: 1498.630105936049, bid amount: 0.05
+2023-08-18 01:16:54 - INFO - 	bid on $1.2411545196760494 TWAVE, TWAVE current price: 1.15963
+2023-08-18 01:16:54 - INFO - 	2023-08-18 01:16:54 placed bid: decd607a-dd40-4df2-9333-85751f3a4b39
+
+2023-08-18 01:16:54 - INFO - 
+2023-08-18 01:16:54 - INFO - User 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4 liquidation information:
+2023-08-18 01:16:55 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:16:55 - INFO - 	Liquidation Price: 1.2617, Total Collateral In USD: 12329.2372
+2023-08-18 01:16:55 - INFO - 	Total Borrow In USD: 11398.9405, Health Factor: 0.9193706744299488
+2023-08-18 01:16:55 - INFO - 	profit potential: 2011.5777307141743, bid amount: 0.059481401675828514
+2023-08-18 01:16:55 - INFO - 	bid on $1.2617326528489197 TWAVE, TWAVE current price: 1.159568
+2023-08-18 01:16:55 - INFO - 	2023-08-18 01:16:55 placed bid: 1b27fcab-9060-447c-b709-1083118d0e2d
+
+2023-08-18 01:16:55 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:16:56 - INFO - found won auctions: ['f7346612-6eed-4db5-a358-41a8df069fb7']
+2023-08-18 01:16:56 - INFO - running task to keep loan database updated
+2023-08-18 01:16:56 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:16:56 - INFO - running task to settle any possible liquidations
+2023-08-18 01:17:11 - INFO - updating loan data
+2023-08-18 01:17:15 - INFO - found 58 loans, 36 of which under health factor of 1.2
+2023-08-18 01:17:16 - INFO - native network token price updated: 1690.5200
+2023-08-18 01:17:31 - INFO - checking loans
+2023-08-18 01:17:31 - INFO - bid for 1.152352911351113 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0054038034594681, TWAVE: 1.157346
+2023-08-18 01:17:31 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0580472945369128, TWAVE: 1.157346
+2023-08-18 01:17:31 - INFO - bid for 1.2411545196760494 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.933469589509611, TWAVE: 1.157346
+2023-08-18 01:17:31 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9182452379146985, TWAVE: 1.157346
+2023-08-18 01:17:31 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:17:32 - INFO - found won auctions: ['f7346612-6eed-4db5-a358-41a8df069fb7']
+2023-08-18 01:17:32 - INFO - running task to keep loan database updated
+2023-08-18 01:17:32 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:17:32 - INFO - running task to settle any possible liquidations
+2023-08-18 01:17:47 - INFO - updating loan data
+2023-08-18 01:17:51 - INFO - found 58 loans, 36 of which under health factor of 1.2
+2023-08-18 01:17:52 - INFO - checking loans
+2023-08-18 01:17:52 - INFO - bid for 1.152352911351113 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0034217717593683, TWAVE: 1.156049
+2023-08-18 01:17:52 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0559614825768218, TWAVE: 1.156049
+2023-08-18 01:17:52 - INFO - bid for 1.2411545196760494 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9316293673907757, TWAVE: 1.156049
+2023-08-18 01:17:52 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9164350287591828, TWAVE: 1.156049
+2023-08-18 01:17:52 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:17:53 - INFO - found won auctions: ['f7346612-6eed-4db5-a358-41a8df069fb7']
+2023-08-18 01:17:53 - INFO - running task to keep loan database updated
+2023-08-18 01:17:53 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:17:53 - INFO - running task to settle any possible liquidations
+2023-08-18 01:18:08 - INFO - updating loan data
+2023-08-18 01:18:12 - INFO - found 58 loans, 36 of which under health factor of 1.2
+2023-08-18 01:18:13 - INFO - native network token price updated: 1690.1100
+2023-08-18 01:18:28 - INFO - checking loans
+2023-08-18 01:18:28 - INFO - bid for 1.152352911351113 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0022971162938128, TWAVE: 1.153827
+2023-08-18 01:18:28 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0547779395381713, TWAVE: 1.153827
+2023-08-18 01:18:28 - INFO - bid for 1.2411545196760494 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.930585178307584, TWAVE: 1.153827
+2023-08-18 01:18:28 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9154078697987855, TWAVE: 1.153827
+2023-08-18 01:18:28 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:18:29 - INFO - found won auctions: ['decd607a-dd40-4df2-9333-85751f3a4b39']
+2023-08-18 01:18:29 - INFO - liquidating user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425
+2023-08-18 01:18:36 - INFO - LIQUIDATION: price update and liquidation multicall submitted: 0x5c9c79410c57ab74149c614da28b1974ce1d45b3e17d037f9eac0d85862d992b
+2023-08-18 01:18:36 - INFO - 2023-08-18 01:18:36 multicall submitted: 0x5c9c79410c57ab74149c614da28b1974ce1d45b3e17d037f9eac0d85862d992b
+
+2023-08-18 01:18:36 - INFO - running task to keep loan database updated
+2023-08-18 01:18:36 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:18:36 - INFO - running task to settle any possible liquidations
+2023-08-18 01:18:51 - INFO - updating loan data
+2023-08-18 01:18:56 - INFO - found 58 loans, 36 of which under health factor of 1.2
+2023-08-18 01:18:57 - INFO - checking loans
+2023-08-18 01:18:57 - INFO - bid for 1.152352911351113 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0006294020709299, TWAVE: 1.152037
+2023-08-18 01:18:57 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0530229028897018, TWAVE: 1.152037
+2023-08-18 01:18:57 - INFO - 
+2023-08-18 01:18:57 - INFO - User 0xd42450fb6e33e0b50d0efd379420eabaeecb5425 liquidation information:
+2023-08-18 01:18:57 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:18:57 - INFO - 	Liquidation Price: 1.1898, Total Collateral In USD: 5107.8360
+2023-08-18 01:18:57 - INFO - 	Total Borrow In USD: 4482.8201, Health Factor: 0.9685110083217094
+2023-08-18 01:18:57 - INFO - 	profit potential: 706.580403245611, bid amount: 0.05
+2023-08-18 01:18:57 - INFO - 	bid on $1.1898119795218953 TWAVE, TWAVE current price: 1.152037
+2023-08-18 01:18:57 - INFO - 	2023-08-18 01:18:57 placed bid: 88a2c237-138d-406e-be3f-cbe83d46217a
+
+2023-08-18 01:18:57 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9138847299040531, TWAVE: 1.152037
+2023-08-18 01:18:57 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:18:58 - INFO - found won auctions: ['decd607a-dd40-4df2-9333-85751f3a4b39']
+2023-08-18 01:18:58 - INFO - running task to keep loan database updated
+2023-08-18 01:18:58 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:18:58 - INFO - running task to settle any possible liquidations
+2023-08-18 01:19:13 - INFO - updating loan data
+2023-08-18 01:19:17 - INFO - found 58 loans, 37 of which under health factor of 1.2
+2023-08-18 01:19:19 - INFO - native network token price updated: 1689.5600
+2023-08-18 01:19:34 - INFO - checking loans
+2023-08-18 01:19:34 - INFO - bid for 1.152352911351113 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 0.9994501948467001, TWAVE: 1.149753
+2023-08-18 01:19:34 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.051781951732563, TWAVE: 1.149753
+2023-08-18 01:19:34 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9673696515162874, TWAVE: 1.149753
+2023-08-18 01:19:34 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9128077482828996, TWAVE: 1.149753
+2023-08-18 01:19:34 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:19:34 - INFO - found won auctions: ['6b7822ef-40d5-4d3d-adfc-56c96dbc81b7', '08d2f95f-115f-4d09-b9e8-643056416114', 'c6cb3e2c-7908-49c7-bb03-b41e626724fb', '51c2e5a3-e4c4-4fd8-815a-28caca1876e2', '6fc83757-2fa9-4c73-91c9-0c94ef6e46eb', '88a2c237-138d-406e-be3f-cbe83d46217a']
+2023-08-18 01:19:34 - INFO - liquidating user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85
+2023-08-18 01:19:38 - INFO - LIQUIDATION: price update and liquidation multicall submitted: 0xa8514c18978e63d8ddd8cc9ead6cea74438bf85048391d6ffb904f41fa9fc88e
+2023-08-18 01:19:38 - INFO - 2023-08-18 01:19:38 multicall submitted: 0xa8514c18978e63d8ddd8cc9ead6cea74438bf85048391d6ffb904f41fa9fc88e
+
+2023-08-18 01:19:38 - INFO - user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425 was liquidated 62 seconds ago, skipping...
+2023-08-18 01:19:38 - INFO - running task to keep loan database updated
+2023-08-18 01:19:38 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:19:38 - INFO - running task to settle any possible liquidations
+2023-08-18 01:19:53 - INFO - updating loan data
+2023-08-18 01:19:57 - INFO - found 58 loans, 39 of which under health factor of 1.2
+2023-08-18 01:19:58 - INFO - checking loans
+2023-08-18 01:19:58 - INFO - 
+2023-08-18 01:19:58 - INFO - User 0xf12656573a7809ec5463f8a65225afa8ff31ad85 liquidation information:
+2023-08-18 01:19:59 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:19:59 - INFO - 	Liquidation Price: 1.0406, Total Collateral In USD: 9033.3995
+2023-08-18 01:19:59 - INFO - 	Total Borrow In USD: 6956.6492, Health Factor: 1.1037482711809694
+2023-08-18 01:19:59 - INFO - 	profit potential: 1143.1659837148845, bid amount: 0.05
+2023-08-18 01:19:59 - INFO - 	bid on $1.0405624452495206 TWAVE, TWAVE current price: 1.14821
+2023-08-18 01:19:59 - INFO - 	2023-08-18 01:19:59 placed bid: ab920b89-e859-434d-b1c3-1bb15608a3b7
+
+2023-08-18 01:19:59 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0490040736794328, TWAVE: 1.14821
+2023-08-18 01:19:59 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9648147161327844, TWAVE: 1.14821
+2023-08-18 01:19:59 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9103969172104465, TWAVE: 1.14821
+2023-08-18 01:19:59 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:20:00 - INFO - found won auctions: ['6b7822ef-40d5-4d3d-adfc-56c96dbc81b7', '08d2f95f-115f-4d09-b9e8-643056416114', 'c6cb3e2c-7908-49c7-bb03-b41e626724fb', '51c2e5a3-e4c4-4fd8-815a-28caca1876e2', '6fc83757-2fa9-4c73-91c9-0c94ef6e46eb', '88a2c237-138d-406e-be3f-cbe83d46217a']
+2023-08-18 01:20:00 - INFO - user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425 was liquidated 84 seconds ago, skipping...
+2023-08-18 01:20:00 - INFO - running task to keep loan database updated
+2023-08-18 01:20:00 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:20:00 - INFO - running task to settle any possible liquidations
+2023-08-18 01:20:15 - INFO - updating loan data
+2023-08-18 01:20:19 - INFO - found 58 loans, 39 of which under health factor of 1.2
+2023-08-18 01:20:21 - INFO - native network token price updated: 1687.9000
+2023-08-18 01:20:36 - INFO - checking loans
+2023-08-18 01:20:36 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.1025018298876845, TWAVE: 1.145926
+2023-08-18 01:20:36 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.047819453935604, TWAVE: 1.145926
+2023-08-18 01:20:36 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9637251697806347, TWAVE: 1.145926
+2023-08-18 01:20:36 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9093688238122334, TWAVE: 1.145926
+2023-08-18 01:20:36 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:20:36 - INFO - found won auctions: ['6b7822ef-40d5-4d3d-adfc-56c96dbc81b7', '08d2f95f-115f-4d09-b9e8-643056416114', 'c6cb3e2c-7908-49c7-bb03-b41e626724fb', '51c2e5a3-e4c4-4fd8-815a-28caca1876e2', '6fc83757-2fa9-4c73-91c9-0c94ef6e46eb', '88a2c237-138d-406e-be3f-cbe83d46217a']
+2023-08-18 01:20:36 - INFO - user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425 was liquidated 120 seconds ago, skipping...
+2023-08-18 01:20:36 - INFO - running task to keep loan database updated
+2023-08-18 01:20:36 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:20:36 - INFO - running task to settle any possible liquidations
+2023-08-18 01:20:51 - INFO - updating loan data
+2023-08-18 01:20:56 - INFO - found 58 loans, 39 of which under health factor of 1.2
+2023-08-18 01:20:57 - INFO - checking loans
+2023-08-18 01:20:57 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.1005369070671727, TWAVE: 1.14463
+2023-08-18 01:20:57 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.045951988230786, TWAVE: 1.14463
+2023-08-18 01:20:57 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9620075802696979, TWAVE: 1.14463
+2023-08-18 01:20:57 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9077481103533246, TWAVE: 1.14463
+2023-08-18 01:20:57 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:20:58 - INFO - found won auctions: ['1b27fcab-9060-447c-b709-1083118d0e2d']
+2023-08-18 01:20:58 - INFO - liquidating user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4
+2023-08-18 01:20:58 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:20:58 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:20:58 - INFO - 2023-08-18 01:20:58 price update simulation fail: execution reverted: Does not update timestamp
+
+2023-08-18 01:20:58 - INFO - running task to keep loan database updated
+2023-08-18 01:20:58 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:20:58 - INFO - running task to settle any possible liquidations
+2023-08-18 01:21:13 - INFO - updating loan data
+2023-08-18 01:21:17 - INFO - found 58 loans, 39 of which under health factor of 1.2
+2023-08-18 01:21:19 - INFO - native network token price updated: 1687.1000
+2023-08-18 01:21:34 - INFO - checking loans
+2023-08-18 01:21:34 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0992315707783982, TWAVE: 1.142346
+2023-08-18 01:21:34 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0447113945916395, TWAVE: 1.142346
+2023-08-18 01:21:34 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9608665522891382, TWAVE: 1.142346
+2023-08-18 01:21:34 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9066714390105446, TWAVE: 1.142346
+2023-08-18 01:21:34 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:21:35 - INFO - found won auctions: ['1b27fcab-9060-447c-b709-1083118d0e2d']
+2023-08-18 01:21:35 - INFO - liquidating user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4
+2023-08-18 01:21:36 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:21:36 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:21:36 - INFO - 2023-08-18 01:21:36 price update simulation fail: execution reverted: Does not update timestamp
+
+2023-08-18 01:21:36 - INFO - running task to keep loan database updated
+2023-08-18 01:21:36 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:21:36 - INFO - running task to settle any possible liquidations
+2023-08-18 01:21:51 - INFO - updating loan data
+2023-08-18 01:21:56 - INFO - found 58 loans, 39 of which under health factor of 1.2
+2023-08-18 01:21:57 - INFO - checking loans
+2023-08-18 01:21:57 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0970872575000037, TWAVE: 1.140926
+2023-08-18 01:21:57 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0426734359166292, TWAVE: 1.140926
+2023-08-18 01:21:57 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9589921529709131, TWAVE: 1.140926
+2023-08-18 01:21:57 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9049027601829939, TWAVE: 1.140926
+2023-08-18 01:21:57 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:21:58 - INFO - found won auctions: ['1b27fcab-9060-447c-b709-1083118d0e2d']
+2023-08-18 01:21:58 - INFO - liquidating user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4
+2023-08-18 01:21:58 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:21:58 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:21:58 - INFO - 2023-08-18 01:21:58 price update simulation fail: execution reverted: Does not update timestamp
+
+2023-08-18 01:21:58 - INFO - running task to keep loan database updated
+2023-08-18 01:21:58 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:21:58 - INFO - running task to settle any possible liquidations
+2023-08-18 01:22:13 - INFO - updating loan data
+2023-08-18 01:22:17 - INFO - found 58 loans, 40 of which under health factor of 1.2
+2023-08-18 01:22:19 - INFO - native network token price updated: 1685.7200
+2023-08-18 01:22:34 - INFO - checking loans
+2023-08-18 01:22:34 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0957817906192255, TWAVE: 1.138642
+2023-08-18 01:22:34 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0414327181626393, TWAVE: 1.138642
+2023-08-18 01:22:34 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9578510108365285, TWAVE: 1.138642
+2023-08-18 01:22:34 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.903825981124931, TWAVE: 1.138642
+2023-08-18 01:22:34 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:22:35 - INFO - found won auctions: ['1b27fcab-9060-447c-b709-1083118d0e2d']
+2023-08-18 01:22:35 - INFO - liquidating user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4
+2023-08-18 01:22:35 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:22:35 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:22:35 - INFO - 2023-08-18 01:22:35 price update simulation fail: execution reverted: Does not update timestamp
+
+2023-08-18 01:22:35 - INFO - running task to keep loan database updated
+2023-08-18 01:22:35 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:22:35 - INFO - running task to settle any possible liquidations
+2023-08-18 01:22:50 - INFO - updating loan data
+2023-08-18 01:22:55 - INFO - found 58 loans, 40 of which under health factor of 1.2
+2023-08-18 01:22:56 - INFO - checking loans
+2023-08-18 01:22:56 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0936693013286742, TWAVE: 1.137284
+2023-08-18 01:22:56 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.039425005055174, TWAVE: 1.137284
+2023-08-18 01:22:56 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9560044296835487, TWAVE: 1.137284
+2023-08-18 01:22:56 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.902083551453263, TWAVE: 1.137284
+2023-08-18 01:22:56 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:22:57 - INFO - found won auctions: ['1b27fcab-9060-447c-b709-1083118d0e2d']
+2023-08-18 01:22:57 - INFO - liquidating user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4
+2023-08-18 01:22:57 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:22:57 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:22:57 - INFO - 2023-08-18 01:22:57 price update simulation fail: execution reverted: Does not update timestamp
+
+2023-08-18 01:22:57 - INFO - running task to keep loan database updated
+2023-08-18 01:22:57 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:22:57 - INFO - running task to settle any possible liquidations
+2023-08-18 01:23:12 - INFO - updating loan data
+2023-08-18 01:23:16 - INFO - found 58 loans, 40 of which under health factor of 1.2
+2023-08-18 01:23:17 - INFO - checking loans
+2023-08-18 01:23:17 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0923637351804962, TWAVE: 1.135988
+2023-08-18 01:23:17 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.038184192957293, TWAVE: 1.135988
+2023-08-18 01:23:17 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9548632007769802, TWAVE: 1.135988
+2023-08-18 01:23:17 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.9010066905171694, TWAVE: 1.135988
+2023-08-18 01:23:17 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:23:18 - INFO - found won auctions: ['1b27fcab-9060-447c-b709-1083118d0e2d']
+2023-08-18 01:23:18 - INFO - liquidating user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4
+2023-08-18 01:23:18 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:23:19 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:23:19 - INFO - 2023-08-18 01:23:19 price update simulation fail: execution reverted: Does not update timestamp
+
+2023-08-18 01:23:19 - INFO - running task to keep loan database updated
+2023-08-18 01:23:19 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:23:19 - INFO - running task to settle any possible liquidations
+2023-08-18 01:23:34 - INFO - updating loan data
+2023-08-18 01:23:38 - INFO - found 58 loans, 41 of which under health factor of 1.2
+2023-08-18 01:23:39 - INFO - native network token price updated: 1685.8300
+2023-08-18 01:23:54 - INFO - checking loans
+2023-08-18 01:23:54 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.091116813756205, TWAVE: 1.133704
+2023-08-18 01:23:54 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0369991168962087, TWAVE: 1.133704
+2023-08-18 01:23:54 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9537732347299844, TWAVE: 1.133704
+2023-08-18 01:23:54 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.899978201095878, TWAVE: 1.133704
+2023-08-18 01:23:54 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:23:55 - INFO - found won auctions: ['1b27fcab-9060-447c-b709-1083118d0e2d']
+2023-08-18 01:23:55 - INFO - liquidating user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4
+2023-08-18 01:23:55 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:23:56 - INFO - tx simulation from 0x4152465e8A592a8b4D2c74141d8a0013895a15fC failed because: execution reverted: Does not update timestamp
+2023-08-18 01:23:56 - INFO - 2023-08-18 01:23:56 price update simulation fail: execution reverted: Does not update timestamp
+
+2023-08-18 01:23:56 - INFO - running task to keep loan database updated
+2023-08-18 01:23:56 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:23:56 - INFO - running task to settle any possible liquidations
+2023-08-18 01:24:11 - INFO - updating loan data
+2023-08-18 01:24:15 - INFO - found 58 loans, 41 of which under health factor of 1.2
+2023-08-18 01:24:17 - INFO - native network token price updated: 1686.2700
+2023-08-18 01:24:32 - INFO - checking loans
+2023-08-18 01:24:32 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0883514957878706, TWAVE: 1.131358
+2023-08-18 01:24:32 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0343709543979807, TWAVE: 1.131358
+2023-08-18 01:24:32 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.95135599926036, TWAVE: 1.131358
+2023-08-18 01:24:32 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8976973033411892, TWAVE: 1.131358
+2023-08-18 01:24:32 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:24:33 - INFO - running task to keep loan database updated
+2023-08-18 01:24:33 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:24:33 - INFO - running task to settle any possible liquidations
+2023-08-18 01:24:48 - INFO - updating loan data
+2023-08-18 01:24:52 - INFO - found 58 loans, 42 of which under health factor of 1.2
+2023-08-18 01:24:53 - INFO - checking loans
+2023-08-18 01:24:53 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.086156831913131, TWAVE: 1.130062
+2023-08-18 01:24:53 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0322851424378898, TWAVE: 1.130062
+2023-08-18 01:24:53 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9494375871924992, TWAVE: 1.130062
+2023-08-18 01:24:53 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8958870941856737, TWAVE: 1.130062
+2023-08-18 01:24:53 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:24:54 - INFO - running task to keep loan database updated
+2023-08-18 01:24:54 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:24:54 - INFO - running task to settle any possible liquidations
+2023-08-18 01:25:09 - INFO - updating loan data
+2023-08-18 01:25:13 - INFO - found 58 loans, 42 of which under health factor of 1.2
+2023-08-18 01:25:14 - INFO - checking loans
+2023-08-18 01:25:14 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0849115235148548, TWAVE: 1.128765
+2023-08-18 01:25:14 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.031101599399239, TWAVE: 1.128765
+2023-08-18 01:25:14 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9483490311329774, TWAVE: 1.128765
+2023-08-18 01:25:14 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8948599352252758, TWAVE: 1.128765
+2023-08-18 01:25:14 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:25:15 - INFO - running task to keep loan database updated
+2023-08-18 01:25:15 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:25:15 - INFO - running task to settle any possible liquidations
+2023-08-18 01:25:30 - INFO - updating loan data
+2023-08-18 01:25:34 - INFO - found 58 loans, 42 of which under health factor of 1.2
+2023-08-18 01:25:35 - INFO - native network token price updated: 1684.7500
+2023-08-18 01:25:50 - INFO - checking loans
+2023-08-18 01:25:50 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0836662151165783, TWAVE: 1.126543
+2023-08-18 01:25:50 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.029918056360588, TWAVE: 1.126543
+2023-08-18 01:25:50 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9472604750734556, TWAVE: 1.126543
+2023-08-18 01:25:50 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8938327762648782, TWAVE: 1.126543
+2023-08-18 01:25:50 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:25:51 - INFO - running task to keep loan database updated
+2023-08-18 01:25:51 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:25:51 - INFO - running task to settle any possible liquidations
+2023-08-18 01:26:06 - INFO - updating loan data
+2023-08-18 01:26:11 - INFO - found 58 loans, 42 of which under health factor of 1.2
+2023-08-18 01:26:13 - INFO - native network token price updated: 1684.4200
+2023-08-18 01:26:28 - INFO - checking loans
+2023-08-18 01:26:28 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0814715512418387, TWAVE: 1.124198
+2023-08-18 01:26:28 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0278322444004973, TWAVE: 1.124198
+2023-08-18 01:26:28 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.945342063005595, TWAVE: 1.124198
+2023-08-18 01:26:28 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8920225671093628, TWAVE: 1.124198
+2023-08-18 01:26:28 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:26:29 - INFO - running task to keep loan database updated
+2023-08-18 01:26:29 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:26:29 - INFO - running task to settle any possible liquidations
+2023-08-18 01:26:44 - INFO - updating loan data
+2023-08-18 01:26:48 - INFO - found 58 loans, 42 of which under health factor of 1.2
+2023-08-18 01:26:49 - INFO - checking loans
+2023-08-18 01:26:49 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.079276887367099, TWAVE: 1.122901
+2023-08-18 01:26:49 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0257464324404062, TWAVE: 1.122901
+2023-08-18 01:26:49 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9434236509377346, TWAVE: 1.122901
+2023-08-18 01:26:49 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8902123579538475, TWAVE: 1.122901
+2023-08-18 01:26:49 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:26:50 - INFO - running task to keep loan database updated
+2023-08-18 01:26:50 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:26:50 - INFO - running task to settle any possible liquidations
+2023-08-18 01:27:05 - INFO - updating loan data
+2023-08-18 01:27:09 - INFO - found 58 loans, 42 of which under health factor of 1.2
+2023-08-18 01:27:10 - INFO - checking loans
+2023-08-18 01:27:10 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0779720040300165, TWAVE: 1.121605
+2023-08-18 01:27:10 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0245062692872524, TWAVE: 1.121605
+2023-08-18 01:27:10 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9422830188938839, TWAVE: 1.121605
+2023-08-18 01:27:10 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8891360602160234, TWAVE: 1.121605
+2023-08-18 01:27:10 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:27:11 - INFO - running task to keep loan database updated
+2023-08-18 01:27:11 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:27:11 - INFO - running task to settle any possible liquidations
+2023-08-18 01:27:26 - INFO - updating loan data
+2023-08-18 01:27:30 - INFO - found 58 loans, 42 of which under health factor of 1.2
+2023-08-18 01:27:32 - INFO - native network token price updated: 1684.9400
+2023-08-18 01:27:47 - INFO - checking loans
+2023-08-18 01:27:47 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0767266956317405, TWAVE: 1.119321
+2023-08-18 01:27:47 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0233227262486018, TWAVE: 1.119321
+2023-08-18 01:27:47 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9411944628343623, TWAVE: 1.119321
+2023-08-18 01:27:47 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8881089012556258, TWAVE: 1.119321
+2023-08-18 01:27:47 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:27:47 - INFO - running task to keep loan database updated
+2023-08-18 01:27:47 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:27:47 - INFO - running task to settle any possible liquidations
+2023-08-18 01:28:02 - INFO - updating loan data
+2023-08-18 01:28:06 - INFO - found 58 loans, 43 of which under health factor of 1.2
+2023-08-18 01:28:07 - INFO - checking loans
+2023-08-18 01:28:07 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0745906458096972, TWAVE: 1.118086
+2023-08-18 01:28:07 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0212926211753606, TWAVE: 1.118086
+2023-08-18 01:28:07 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9393272868155996, TWAVE: 1.118086
+2023-08-18 01:28:07 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8863470383166107, TWAVE: 1.118086
+2023-08-18 01:28:07 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:28:08 - INFO - running task to keep loan database updated
+2023-08-18 01:28:08 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:28:08 - INFO - running task to settle any possible liquidations
+2023-08-18 01:28:23 - INFO - updating loan data
+2023-08-18 01:28:27 - INFO - found 58 loans, 43 of which under health factor of 1.2
+2023-08-18 01:28:28 - INFO - checking loans
+2023-08-18 01:28:28 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0733453374114212, TWAVE: 1.11679
+2023-08-18 01:28:28 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0201090781367101, TWAVE: 1.11679
+2023-08-18 01:28:28 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9382387307560778, TWAVE: 1.11679
+2023-08-18 01:28:28 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8853198793562128, TWAVE: 1.11679
+2023-08-18 01:28:28 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:28:29 - INFO - running task to keep loan database updated
+2023-08-18 01:28:29 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:28:29 - INFO - running task to settle any possible liquidations
+2023-08-18 01:28:44 - INFO - updating loan data
+2023-08-18 01:28:49 - INFO - found 58 loans, 43 of which under health factor of 1.2
+2023-08-18 01:28:50 - INFO - native network token price updated: 1685.5900
+2023-08-18 01:29:05 - INFO - user 0xd42450fb6e33e0b50d0efd379420eabaeecb5425 was liquidated 629 ago, flushing from completion queue.
+2023-08-18 01:29:05 - ERROR - task for update_loans() crashed: dictionary changed size during iteration
+2023-08-18 01:29:05 - INFO - checking loans
+2023-08-18 01:29:05 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.072100029013145, TWAVE: 1.114506
+2023-08-18 01:29:05 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0189255350980595, TWAVE: 1.114506
+2023-08-18 01:29:05 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9371501746965563, TWAVE: 1.114506
+2023-08-18 01:29:05 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8842927203958154, TWAVE: 1.114506
+2023-08-18 01:29:05 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:29:06 - INFO - running task to keep loan database updated
+2023-08-18 01:29:06 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:29:06 - INFO - running task to settle any possible liquidations
+2023-08-18 01:29:21 - INFO - updating loan data
+2023-08-18 01:29:25 - INFO - found 58 loans, 43 of which under health factor of 1.2
+2023-08-18 01:29:26 - INFO - native network token price updated: 1687.0200
+2023-08-18 01:29:41 - INFO - user 0xf12656573a7809ec5463f8a65225afa8ff31ad85 was liquidated 603 ago, flushing from completion queue.
+2023-08-18 01:29:41 - ERROR - task for update_loans() crashed: dictionary changed size during iteration
+2023-08-18 01:29:41 - INFO - checking loans
+2023-08-18 01:29:41 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0699649400772113, TWAVE: 1.112284
+2023-08-18 01:29:41 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0168963432524716, TWAVE: 1.112284
+2023-08-18 01:29:41 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9352838386130242, TWAVE: 1.112284
+2023-08-18 01:29:41 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8825316500177259, TWAVE: 1.112284
+2023-08-18 01:29:41 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:29:42 - INFO - running task to keep loan database updated
+2023-08-18 01:29:42 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:29:42 - INFO - running task to settle any possible liquidations
+2023-08-18 01:29:57 - INFO - updating loan data
+2023-08-18 01:30:01 - INFO - found 58 loans, 43 of which under health factor of 1.2
+2023-08-18 01:30:03 - INFO - checking loans
+2023-08-18 01:30:03 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0678076494702033, TWAVE: 1.110926
+2023-08-18 01:30:03 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0148460509041624, TWAVE: 1.110926
+2023-08-18 01:30:03 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9333980954785056, TWAVE: 1.110926
+2023-08-18 01:30:03 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8807522671915624, TWAVE: 1.110926
+2023-08-18 01:30:03 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:30:04 - INFO - running task to keep loan database updated
+2023-08-18 01:30:04 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:30:04 - INFO - running task to settle any possible liquidations
+2023-08-18 01:30:19 - INFO - updating loan data
+2023-08-18 01:30:23 - INFO - found 58 loans, 43 of which under health factor of 1.2
+2023-08-18 01:30:25 - INFO - native network token price updated: 1685.3200
+2023-08-18 01:30:40 - INFO - checking loans
+2023-08-18 01:30:40 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0665613365648658, TWAVE: 1.108642
+2023-08-18 01:30:40 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.013661553180438, TWAVE: 1.108642
+2023-08-18 01:30:40 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9323086613535584, TWAVE: 1.108642
+2023-08-18 01:30:40 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8797242796906761, TWAVE: 1.108642
+2023-08-18 01:30:40 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:30:41 - INFO - running task to keep loan database updated
+2023-08-18 01:30:41 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:30:41 - INFO - running task to settle any possible liquidations
+2023-08-18 01:30:56 - INFO - updating loan data
+2023-08-18 01:31:00 - INFO - found 58 loans, 44 of which under health factor of 1.2
+2023-08-18 01:31:01 - INFO - checking loans
+2023-08-18 01:31:01 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.064329343043346, TWAVE: 1.107346
+2023-08-18 01:31:01 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0115402630659858, TWAVE: 1.107346
+2023-08-18 01:31:01 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9303576184825503, TWAVE: 1.107346
+2023-08-18 01:31:01 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8778832801853711, TWAVE: 1.107346
+2023-08-18 01:31:01 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:31:02 - INFO - running task to keep loan database updated
+2023-08-18 01:31:02 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:31:02 - INFO - running task to settle any possible liquidations
+2023-08-18 01:31:17 - INFO - updating loan data
+2023-08-18 01:31:22 - INFO - found 58 loans, 44 of which under health factor of 1.2
+2023-08-18 01:31:23 - INFO - native network token price updated: 1685.4200
+2023-08-18 01:31:38 - INFO - checking loans
+2023-08-18 01:31:38 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0630244597062632, TWAVE: 1.105062
+2023-08-18 01:31:38 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0103000999128315, TWAVE: 1.105062
+2023-08-18 01:31:38 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9292169864386995, TWAVE: 1.105062
+2023-08-18 01:31:38 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8768069824475473, TWAVE: 1.105062
+2023-08-18 01:31:38 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:31:39 - INFO - running task to keep loan database updated
+2023-08-18 01:31:39 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:31:39 - INFO - running task to settle any possible liquidations
+2023-08-18 01:31:54 - INFO - updating loan data
+2023-08-18 01:31:58 - INFO - found 58 loans, 44 of which under health factor of 1.2
+2023-08-18 01:31:59 - INFO - checking loans
+2023-08-18 01:31:59 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0609509059228737, TWAVE: 1.103765
+2023-08-18 01:31:59 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.008329391171932, TWAVE: 1.103765
+2023-08-18 01:31:59 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9274044398126774, TWAVE: 1.103765
+2023-08-18 01:31:59 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8750966676761834, TWAVE: 1.103765
+2023-08-18 01:31:59 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:32:00 - INFO - running task to keep loan database updated
+2023-08-18 01:32:00 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:32:00 - INFO - running task to settle any possible liquidations
+2023-08-18 01:32:15 - INFO - updating loan data
+2023-08-18 01:32:19 - INFO - found 58 loans, 44 of which under health factor of 1.2
+2023-08-18 01:32:21 - INFO - native network token price updated: 1684.8500
+2023-08-18 01:32:36 - INFO - checking loans
+2023-08-18 01:32:36 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0596459468981676, TWAVE: 1.101481
+2023-08-18 01:32:36 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.007089156085143, TWAVE: 1.101481
+2023-08-18 01:32:36 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9262637416083308, TWAVE: 1.101481
+2023-08-18 01:32:36 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8740203075094696, TWAVE: 1.101481
+2023-08-18 01:32:36 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:32:37 - INFO - running task to keep loan database updated
+2023-08-18 01:32:37 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:32:37 - INFO - running task to settle any possible liquidations
+2023-08-18 01:32:52 - INFO - updating loan data
+2023-08-18 01:32:56 - INFO - found 58 loans, 44 of which under health factor of 1.2
+2023-08-18 01:32:57 - INFO - checking loans
+2023-08-18 01:32:57 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0575107341198937, TWAVE: 1.100185
+2023-08-18 01:32:57 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.005059846539602, TWAVE: 1.100185
+2023-08-18 01:32:57 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9243972972710276, TWAVE: 1.100185
+2023-08-18 01:32:57 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8722591349833744, TWAVE: 1.100185
+2023-08-18 01:32:57 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:32:58 - INFO - running task to keep loan database updated
+2023-08-18 01:32:58 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:32:58 - INFO - running task to settle any possible liquidations
+2023-08-18 01:33:13 - INFO - updating loan data
+2023-08-18 01:33:17 - INFO - found 58 loans, 44 of which under health factor of 1.2
+2023-08-18 01:33:19 - INFO - checking loans
+2023-08-18 01:33:19 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0562406330578398, TWAVE: 1.098827
+2023-08-18 01:33:19 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0038527405147353, TWAVE: 1.098827
+2023-08-18 01:33:19 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.923287069307242, TWAVE: 1.098827
+2023-08-18 01:33:19 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8712115264646291, TWAVE: 1.098827
+2023-08-18 01:33:19 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:33:20 - INFO - running task to keep loan database updated
+2023-08-18 01:33:20 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:33:20 - INFO - running task to settle any possible liquidations
+2023-08-18 01:33:35 - INFO - updating loan data
+2023-08-18 01:33:39 - INFO - found 58 loans, 44 of which under health factor of 1.2
+2023-08-18 01:33:40 - INFO - native network token price updated: 1684.6200
+2023-08-18 01:33:55 - INFO - checking loans
+2023-08-18 01:33:55 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.054995211326186, TWAVE: 1.096605
+2023-08-18 01:33:55 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0026690897638662, TWAVE: 1.096605
+2023-08-18 01:33:55 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9221984141801038, TWAVE: 1.096605
+2023-08-18 01:33:55 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8701842740242596, TWAVE: 1.096605
+2023-08-18 01:33:55 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:33:56 - INFO - running task to keep loan database updated
+2023-08-18 01:33:56 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:33:56 - INFO - running task to settle any possible liquidations
+2023-08-18 01:34:11 - INFO - updating loan data
+2023-08-18 01:34:15 - INFO - found 58 loans, 46 of which under health factor of 1.2
+2023-08-18 01:34:17 - INFO - native network token price updated: 1684.4400
+2023-08-18 01:34:32 - INFO - checking loans
+2023-08-18 01:34:32 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0527045428872157, TWAVE: 1.094321
+2023-08-18 01:34:32 - INFO - 
+2023-08-18 01:34:32 - INFO - User 0xe71e7aa845045a53d063dd44dc3636c425df9e63 liquidation information:
+2023-08-18 01:34:32 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:34:32 - INFO - 	Liquidation Price: 0.9147, Total Collateral In USD: 816.9950
+2023-08-18 01:34:32 - INFO - 	Total Borrow In USD: 579.8293, Health Factor: 1.197672712466787
+2023-08-18 01:34:32 - INFO - 	profit potential: 18.100814671211168, bid amount: 0.05
+2023-08-18 01:34:32 - INFO - 	bid on $0.91473738075199 TWAVE, TWAVE current price: 1.094321
+2023-08-18 01:34:32 - INFO - 	2023-08-18 01:34:32 placed bid: 0a55aa91-2fea-4e7f-8516-0b8efe7b8b58
+
+2023-08-18 01:34:32 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0004920349166067, TWAVE: 1.094321
+2023-08-18 01:34:32 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9201960820565528, TWAVE: 1.094321
+2023-08-18 01:34:32 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.868294878099808, TWAVE: 1.094321
+2023-08-18 01:34:32 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:34:33 - INFO - running task to keep loan database updated
+2023-08-18 01:34:33 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:34:33 - INFO - running task to settle any possible liquidations
+2023-08-18 01:34:48 - INFO - updating loan data
+2023-08-18 01:34:52 - INFO - found 58 loans, 46 of which under health factor of 1.2
+2023-08-18 01:34:54 - INFO - checking loans
+2023-08-18 01:34:54 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0505098790124758, TWAVE: 1.092963
+2023-08-18 01:34:54 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1951758209566552, TWAVE: 1.092963
+2023-08-18 01:34:54 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 0.9984062229565156, TWAVE: 1.092963
+2023-08-18 01:34:54 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9182776699886922, TWAVE: 1.092963
+2023-08-18 01:34:54 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8664846689442923, TWAVE: 1.092963
+2023-08-18 01:34:54 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:34:55 - INFO - running task to keep loan database updated
+2023-08-18 01:34:55 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:34:55 - INFO - running task to settle any possible liquidations
+2023-08-18 01:35:10 - INFO - updating loan data
+2023-08-18 01:35:13 - INFO - found 58 loans, 47 of which under health factor of 1.2
+2023-08-18 01:35:15 - INFO - native network token price updated: 1684.1300
+2023-08-18 01:35:30 - INFO - checking loans
+2023-08-18 01:35:30 - INFO - 
+2023-08-18 01:35:30 - INFO - User 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2 liquidation information:
+2023-08-18 01:35:30 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:35:30 - INFO - 	Liquidation Price: 0.9106, Total Collateral In USD: 1800.0542
+2023-08-18 01:35:30 - INFO - 	Total Borrow In USD: 1275.9389, Health Factor: 1.1991531003763034
+2023-08-18 01:35:30 - INFO - 	profit potential: 140.9591862688103, bid amount: 0.05
+2023-08-18 01:35:30 - INFO - 	bid on $0.9106218377430952 TWAVE, TWAVE current price: 1.090741
+2023-08-18 01:35:30 - INFO - 	2023-08-18 01:35:30 placed bid: ed444a70-fabb-4882-9b2c-dc4a4083c9fe
+
+2023-08-18 01:35:30 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0492636097280896, TWAVE: 1.090741
+2023-08-18 01:35:30 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1937579276604025, TWAVE: 1.090741
+2023-08-18 01:35:30 - INFO - bid for 1.0950172132967728 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 0.9972217666902116, TWAVE: 1.090741
+2023-08-18 01:35:30 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9171882739939391, TWAVE: 1.090741
+2023-08-18 01:35:30 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8654567174229686, TWAVE: 1.090741
+2023-08-18 01:35:30 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:35:31 - INFO - found won auctions: ['d8b39388-a88d-472d-ad3f-68a3d989ca25', '9a15831b-8741-4e03-a8a5-7cf489f1d88f', '22d2d1e4-8af0-45dd-a5c4-a28dc38ba1da', 'b49b528e-5e39-4dd8-804d-8b97735b2af6', '4361c24d-5b11-4d69-b21b-442d81ad4877']
+2023-08-18 01:35:31 - INFO - liquidating user: 0xe3bff9fe31d149f2503857d743066499eee5d322
+2023-08-18 01:35:37 - INFO - LIQUIDATION: price update and liquidation multicall submitted: 0xdb13aa993f3e431bf057d65e71ee412335905723caf00ab56aef1b0142eddc81
+2023-08-18 01:35:37 - INFO - 2023-08-18 01:35:37 multicall submitted: 0xdb13aa993f3e431bf057d65e71ee412335905723caf00ab56aef1b0142eddc81
+
+2023-08-18 01:35:37 - INFO - running task to keep loan database updated
+2023-08-18 01:35:37 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:35:37 - INFO - running task to settle any possible liquidations
+2023-08-18 01:35:52 - INFO - updating loan data
+2023-08-18 01:35:56 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:35:57 - INFO - checking loans
+2023-08-18 01:35:57 - INFO - 
+2023-08-18 01:35:57 - INFO - User 0xfe875d929c06daa2e65ab167a2d937a69d2beed1 liquidation information:
+2023-08-18 01:35:58 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:35:58 - INFO - 	Liquidation Price: 0.9095, Total Collateral In USD: 866.4535
+2023-08-18 01:35:58 - INFO - 	Total Borrow In USD: 614.8560, Health Factor: 1.197817771303469
+2023-08-18 01:35:58 - INFO - 	profit potential: 24.297508448540952, bid amount: 0.05
+2023-08-18 01:35:58 - INFO - 	bid on $0.9094730651846399 TWAVE, TWAVE current price: 1.089012
+2023-08-18 01:35:58 - INFO - 	2023-08-18 01:35:58 placed bid: 066c01fb-c95c-4014-86db-2408d2092fd7
+
+2023-08-18 01:35:58 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1964263364198906, TWAVE: 1.089012
+2023-08-18 01:35:58 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0468776806996078, TWAVE: 1.089012
+2023-08-18 01:35:58 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1910434318309662, TWAVE: 1.089012
+2023-08-18 01:35:58 - INFO - 
+2023-08-18 01:35:58 - INFO - User 0xe3bff9fe31d149f2503857d743066499eee5d322 liquidation information:
+2023-08-18 01:35:58 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:35:58 - INFO - 	Liquidation Price: 0.9909, Total Collateral In USD: 49114.8494
+2023-08-18 01:35:58 - INFO - 	Total Borrow In USD: 37973.1006, Health Factor: 1.0993998731256824
+2023-08-18 01:35:58 - INFO - 	profit potential: 6701.135403932647, bid amount: 0.19894946957576456
+2023-08-18 01:35:58 - INFO - 	bid on $0.9908887808971601 TWAVE, TWAVE current price: 1.089012
+2023-08-18 01:35:58 - INFO - 	2023-08-18 01:35:58 placed bid: b22d9385-0178-4ecd-a5dd-fd163de00731
+
+2023-08-18 01:35:58 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9151026721421105, TWAVE: 1.089012
+2023-08-18 01:35:58 - INFO - 
+2023-08-18 01:35:58 - INFO - User 0xce869eeae958f4352012050fb6ddc644ccfd928a liquidation information:
+2023-08-18 01:35:59 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:35:59 - INFO - 	Liquidation Price: 0.9098, Total Collateral In USD: 10878.3105
+2023-08-18 01:35:59 - INFO - 	Total Borrow In USD: 7722.6280, Health Factor: 1.197333857760999
+2023-08-18 01:35:59 - INFO - 	profit potential: 1278.6102031783196, bid amount: 0.05
+2023-08-18 01:35:59 - INFO - 	bid on $0.9098406371278384 TWAVE, TWAVE current price: 1.088951
+2023-08-18 01:35:59 - INFO - 	2023-08-18 01:35:59 placed bid: d22ee4d8-730a-4516-8dc9-a411cfd39112
+
+2023-08-18 01:35:59 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8634887483770111, TWAVE: 1.088951
+2023-08-18 01:35:59 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:36:00 - INFO - found won auctions: ['d8b39388-a88d-472d-ad3f-68a3d989ca25', '9a15831b-8741-4e03-a8a5-7cf489f1d88f', '22d2d1e4-8af0-45dd-a5c4-a28dc38ba1da', 'b49b528e-5e39-4dd8-804d-8b97735b2af6', '4361c24d-5b11-4d69-b21b-442d81ad4877']
+2023-08-18 01:36:00 - INFO - running task to keep loan database updated
+2023-08-18 01:36:00 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:36:00 - INFO - running task to settle any possible liquidations
+2023-08-18 01:36:15 - INFO - updating loan data
+2023-08-18 01:36:19 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:36:20 - INFO - native network token price updated: 1684.3300
+2023-08-18 01:36:35 - INFO - checking loans
+2023-08-18 01:36:35 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.196188256305464, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1947987143342018, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0454535050673492, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1894231326653164, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0979042461405244, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9138577636387516, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1957050010804728, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8623140556150581, TWAVE: 1.086728
+2023-08-18 01:36:35 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:36:36 - INFO - found won auctions: ['d8b39388-a88d-472d-ad3f-68a3d989ca25', '9a15831b-8741-4e03-a8a5-7cf489f1d88f', '22d2d1e4-8af0-45dd-a5c4-a28dc38ba1da', 'b49b528e-5e39-4dd8-804d-8b97735b2af6', '4361c24d-5b11-4d69-b21b-442d81ad4877']
+2023-08-18 01:36:36 - INFO - running task to keep loan database updated
+2023-08-18 01:36:36 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:36:36 - INFO - running task to settle any possible liquidations
+2023-08-18 01:36:51 - INFO - updating loan data
+2023-08-18 01:36:55 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:36:57 - INFO - checking loans
+2023-08-18 01:36:57 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1937271756478376, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1923404925701067, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0433025514977867, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1869759708159118, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.095645378533474, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9119775598714451, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1932449146894932, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8605398997228841, TWAVE: 1.08537
+2023-08-18 01:36:57 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:36:57 - INFO - found won auctions: ['d8b39388-a88d-472d-ad3f-68a3d989ca25', '9a15831b-8741-4e03-a8a5-7cf489f1d88f', '22d2d1e4-8af0-45dd-a5c4-a28dc38ba1da', 'b49b528e-5e39-4dd8-804d-8b97735b2af6', '4361c24d-5b11-4d69-b21b-442d81ad4877']
+2023-08-18 01:36:57 - INFO - running task to keep loan database updated
+2023-08-18 01:36:57 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:36:57 - INFO - running task to settle any possible liquidations
+2023-08-18 01:37:12 - INFO - updating loan data
+2023-08-18 01:37:16 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:37:17 - INFO - checking loans
+2023-08-18 01:37:17 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1922211181270972, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1908361845483477, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0419862761493277, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1854784309054083, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0942630652243135, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9108269697778205, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1917394656099094, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8594542055925051, TWAVE: 1.084136
+2023-08-18 01:37:17 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:37:19 - INFO - running task to keep loan database updated
+2023-08-18 01:37:19 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:37:19 - INFO - running task to settle any possible liquidations
+2023-08-18 01:37:34 - INFO - updating loan data
+2023-08-18 01:37:38 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:37:39 - INFO - native network token price updated: 1684.8100
+2023-08-18 01:37:54 - INFO - checking loans
+2023-08-18 01:37:54 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1907951359877507, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1894118588890934, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0407399856780035, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1840605135045597, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0929542479562488, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9097375552630209, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.190314059561589, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8584262365957083, TWAVE: 1.081852
+2023-08-18 01:37:54 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:37:55 - INFO - running task to keep loan database updated
+2023-08-18 01:37:55 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:37:55 - INFO - running task to settle any possible liquidations
+2023-08-18 01:38:10 - INFO - updating loan data
+2023-08-18 01:38:15 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:38:16 - INFO - native network token price updated: 1685.2000
+2023-08-18 01:38:31 - INFO - checking loans
+2023-08-18 01:38:31 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1882637993029506, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1868834627101446, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0385276292235073, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1815434929656985, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0906308968616332, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9078036776567209, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.187783745526587, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8566014341941707, TWAVE: 1.079568
+2023-08-18 01:38:31 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:38:32 - INFO - running task to keep loan database updated
+2023-08-18 01:38:32 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:38:32 - INFO - running task to settle any possible liquidations
+2023-08-18 01:38:47 - INFO - updating loan data
+2023-08-18 01:38:51 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:38:52 - INFO - checking loans
+2023-08-18 01:38:52 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1858208706610245, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1844433718756142, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.036392540287574, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.179114380472041, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0883886898220214, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9059373415731892, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1853418038179666, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8548403638160815, TWAVE: 1.078272
+2023-08-18 01:38:52 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:38:53 - INFO - running task to keep loan database updated
+2023-08-18 01:38:53 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:38:53 - INFO - running task to settle any possible liquidations
+2023-08-18 01:39:08 - INFO - updating loan data
+2023-08-18 01:39:12 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:39:13 - INFO - checking loans
+2023-08-18 01:39:13 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1843278476656434, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1829520832377687, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.035087656950491, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1776298013692565, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0870183400651385, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9047967095293381, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1838493839978466, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8537640660782572, TWAVE: 1.076975
+2023-08-18 01:39:13 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:39:14 - INFO - running task to keep loan database updated
+2023-08-18 01:39:14 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:39:14 - INFO - running task to settle any possible liquidations
+2023-08-18 01:39:29 - INFO - updating loan data
+2023-08-18 01:39:34 - INFO - found 58 loans, 49 of which under health factor of 1.2
+2023-08-18 01:39:35 - INFO - native network token price updated: 1685.3600
+2023-08-18 01:39:50 - INFO - checking loans
+2023-08-18 01:39:50 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1829029891958251, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1815288799427415, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.033842348552215, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1762130012829473, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0857105541410448, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9037081534698166, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1824251011650961, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8527369071178599, TWAVE: 1.074691
+2023-08-18 01:39:50 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:39:51 - INFO - running task to keep loan database updated
+2023-08-18 01:39:51 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:39:51 - INFO - running task to settle any possible liquidations
+2023-08-18 01:40:06 - INFO - updating loan data
+2023-08-18 01:40:10 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:40:11 - INFO - checking loans
+2023-08-18 01:40:11 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1803918960283366, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1790207037653935, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.031647684677475, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.173716109772815, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0834057832686443, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9017897414019561, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1799150224691066, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8509266979623442, TWAVE: 1.073395
+2023-08-18 01:40:11 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:40:12 - INFO - running task to keep loan database updated
+2023-08-18 01:40:12 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:40:12 - INFO - running task to settle any possible liquidations
+2023-08-18 01:40:27 - INFO - updating loan data
+2023-08-18 01:40:31 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:40:32 - INFO - checking loans
+2023-08-18 01:40:32 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1789670375585182, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.177597500470366, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0304023762791992, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1722993096865053, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0820979973445504, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.9007011853424345, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1784907396363564, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8498995390019466, TWAVE: 1.072099
+2023-08-18 01:40:32 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:40:33 - INFO - running task to keep loan database updated
+2023-08-18 01:40:33 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:40:33 - INFO - running task to settle any possible liquidations
+2023-08-18 01:40:48 - INFO - updating loan data
+2023-08-18 01:40:53 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:40:54 - INFO - native network token price updated: 1685.3200
+2023-08-18 01:41:09 - INFO - checking loans
+2023-08-18 01:41:09 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.177541079660868, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1761731990246473, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.029156106994813, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1708814163902528, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.080789202326379, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8996117893476817, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1770653578199384, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8488715874806226, TWAVE: 1.069815
+2023-08-18 01:41:09 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:41:10 - INFO - running task to keep loan database updated
+2023-08-18 01:41:10 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:41:10 - INFO - running task to settle any possible liquidations
+2023-08-18 01:41:25 - INFO - updating loan data
+2023-08-18 01:41:29 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:41:30 - INFO - native network token price updated: 1685.6600
+2023-08-18 01:41:45 - INFO - checking loans
+2023-08-18 01:41:45 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1750981510189422, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1737331081901177, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.02702101805888, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.168452303896596, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0785469952867675, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.89774545326415, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1746234161113185, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8471105171025337, TWAVE: 1.067593
+2023-08-18 01:41:45 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:41:46 - INFO - running task to keep loan database updated
+2023-08-18 01:41:46 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:41:46 - INFO - running task to settle any possible liquidations
+2023-08-18 01:42:01 - INFO - updating loan data
+2023-08-18 01:42:05 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:42:06 - INFO - checking loans
+2023-08-18 01:42:06 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1725870578514535, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1712249320127692, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0248263541841398, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1659554123864635, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0762422244143668, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8958270411962894, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1721133374153287, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8453003079470182, TWAVE: 1.066296
+2023-08-18 01:42:06 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:42:07 - INFO - running task to keep loan database updated
+2023-08-18 01:42:07 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:42:07 - INFO - running task to settle any possible liquidations
+2023-08-18 01:42:22 - INFO - updating loan data
+2023-08-18 01:42:26 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:42:28 - INFO - native network token price updated: 1685.8600
+2023-08-18 01:42:43 - INFO - checking loans
+2023-08-18 01:42:43 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.171162199381635, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1698017287177422, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0235810457858638, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1645386123001542, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.074934438490273, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8947384851367678, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1706890545825783, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8442731489866206, TWAVE: 1.064012
+2023-08-18 01:42:43 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:42:44 - INFO - running task to keep loan database updated
+2023-08-18 01:42:44 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:42:44 - INFO - running task to settle any possible liquidations
+2023-08-18 01:42:59 - INFO - updating loan data
+2023-08-18 01:43:03 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:43:04 - INFO - checking loans
+2023-08-18 01:43:04 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1686511062141465, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1672935525403942, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0213863819111237, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.162041720790022, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0726296676178726, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.892820073068907, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.168178975886589, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8424629398311049, TWAVE: 1.062716
+2023-08-18 01:43:04 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:43:05 - INFO - running task to keep loan database updated
+2023-08-18 01:43:05 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:43:05 - INFO - running task to settle any possible liquidations
+2023-08-18 01:43:20 - INFO - updating loan data
+2023-08-18 01:43:25 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:43:26 - INFO - checking loans
+2023-08-18 01:43:26 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1672262477443283, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1658703492453666, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0201410735128478, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1606249207037123, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0713218816937784, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8917315170093852, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1667546930538382, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8414357808707074, TWAVE: 1.061358
+2023-08-18 01:43:26 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:43:27 - INFO - running task to keep loan database updated
+2023-08-18 01:43:27 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:43:27 - INFO - running task to settle any possible liquidations
+2023-08-18 01:43:42 - INFO - updating loan data
+2023-08-18 01:43:46 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:43:47 - INFO - native network token price updated: 1686.2000
+2023-08-18 01:44:02 - INFO - checking loans
+2023-08-18 01:44:02 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1657332247489478, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1643790606075213, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0188361901757652, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1591403416009283, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0699515319368962, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8905908849655347, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1652622732337186, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8403594831328833, TWAVE: 1.059136
+2023-08-18 01:44:02 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:44:03 - INFO - running task to keep loan database updated
+2023-08-18 01:44:03 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:44:03 - INFO - running task to settle any possible liquidations
+2023-08-18 01:44:18 - INFO - updating loan data
+2023-08-18 01:44:22 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:44:23 - INFO - native network token price updated: 1686.4100
+2023-08-18 01:44:38 - INFO - checking loans
+2023-08-18 01:44:38 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.16328919667919, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1619378716223003, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0167001403537221, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.156710135897328, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0677083158032072, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8887237089467719, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1628192325414313, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8385976201938682, TWAVE: 1.056914
+2023-08-18 01:44:38 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:44:39 - INFO - running task to keep loan database updated
+2023-08-18 01:44:39 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:44:39 - INFO - running task to settle any possible liquidations
+2023-08-18 01:44:54 - INFO - updating loan data
+2023-08-18 01:44:59 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:45:00 - INFO - checking loans
+2023-08-18 01:45:00 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1608462680372633, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1594977807877702, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0145650514177886, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1542810234036702, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.065466108763595, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8868573728632401, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.160377290832811, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8368365498157788, TWAVE: 1.055556
+2023-08-18 01:45:00 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:45:00 - INFO - running task to keep loan database updated
+2023-08-18 01:45:00 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:45:00 - INFO - running task to settle any possible liquidations
+2023-08-18 01:45:15 - INFO - updating loan data
+2023-08-18 01:45:20 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:45:22 - INFO - native network token price updated: 1686.7800
+2023-08-18 01:45:37 - INFO - checking loans
+2023-08-18 01:45:37 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1594214095674449, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1580745774927423, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0133197430195124, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1528642233173607, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.064158322839501, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8857688168037186, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.15895300800006, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8358093908553812, TWAVE: 1.053272
+2023-08-18 01:45:37 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:45:38 - INFO - running task to keep loan database updated
+2023-08-18 01:45:38 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:45:38 - INFO - running task to settle any possible liquidations
+2023-08-18 01:45:53 - INFO - updating loan data
+2023-08-18 01:45:57 - INFO - found 58 loans, 50 of which under health factor of 1.2
+2023-08-18 01:45:58 - INFO - user 0xe3bff9fe31d149f2503857d743066499eee5d322 was liquidated 621 ago, flushing from completion queue.
+2023-08-18 01:45:58 - ERROR - task for update_loans() crashed: dictionary changed size during iteration
+2023-08-18 01:45:58 - INFO - checking loans
+2023-08-18 01:45:58 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1568421518743943, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1554983159725774, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0110655042059664, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1502995527907545, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0617909881343126, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8837983287515291, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.156374792316702, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8339500429224396, TWAVE: 1.051975
+2023-08-18 01:45:58 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:45:59 - INFO - running task to keep loan database updated
+2023-08-18 01:45:59 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:45:59 - INFO - running task to settle any possible liquidations
+2023-08-18 01:46:14 - INFO - updating loan data
+2023-08-18 01:46:19 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:46:20 - INFO - native network token price updated: 1686.8000
+2023-08-18 01:46:35 - INFO - checking loans
+2023-08-18 01:46:35 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.155417293404576, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.15407511267755, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0098201958076907, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.148882752704445, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0604832022102186, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8827097726920076, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1549505094839516, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8329228839620421, TWAVE: 1.049691
+2023-08-18 01:46:35 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:46:36 - INFO - running task to keep loan database updated
+2023-08-18 01:46:36 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:46:36 - INFO - running task to settle any possible liquidations
+2023-08-18 01:46:51 - INFO - updating loan data
+2023-08-18 01:46:55 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:46:56 - INFO - checking loans
+2023-08-18 01:46:56 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1529743647626496, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1516350218430196, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0076851068717572, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1464536402107874, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0582409951706067, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8808434366084756, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1525085677753313, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8311618135839528, TWAVE: 1.048395
+2023-08-18 01:46:56 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:46:57 - INFO - running task to keep loan database updated
+2023-08-18 01:46:57 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:46:57 - INFO - running task to settle any possible liquidations
+2023-08-18 01:47:12 - INFO - updating loan data
+2023-08-18 01:47:16 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:47:17 - INFO - native network token price updated: 1686.7800
+2023-08-18 01:47:32 - INFO - checking loans
+2023-08-18 01:47:32 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1515484068649997, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1502107203973013, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0064388375873712, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1450357469145347, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0569322001524355, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8797540406137228, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1510831859589135, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8301338620626288, TWAVE: 1.046173
+2023-08-18 01:47:32 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:47:33 - INFO - running task to keep loan database updated
+2023-08-18 01:47:33 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:47:33 - INFO - running task to settle any possible liquidations
+2023-08-18 01:47:48 - INFO - updating loan data
+2023-08-18 01:47:52 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:47:53 - INFO - checking loans
+2023-08-18 01:47:53 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1490373136975114, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1477025442199533, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0042441737126313, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.142538855404403, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.054627429280035, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8778356285458622, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.148573107262924, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8283236529071135, TWAVE: 1.044877
+2023-08-18 01:47:53 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:47:54 - INFO - running task to keep loan database updated
+2023-08-18 01:47:54 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:47:54 - INFO - running task to settle any possible liquidations
+2023-08-18 01:48:09 - INFO - updating loan data
+2023-08-18 01:48:13 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:48:15 - INFO - native network token price updated: 1686.6900
+2023-08-18 01:48:30 - INFO - checking loans
+2023-08-18 01:48:30 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1464659892384543, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.145134206718208, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0019968684459097, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1399820732448485, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0522673759799612, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8758712012850557, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1460028216085651, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8264700239227932, TWAVE: 1.042593
+2023-08-18 01:48:30 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:48:31 - INFO - running task to keep loan database updated
+2023-08-18 01:48:31 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:48:31 - INFO - running task to settle any possible liquidations
+2023-08-18 01:48:46 - INFO - updating loan data
+2023-08-18 01:48:50 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:48:51 - INFO - checking loans
+2023-08-18 01:48:51 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1440255010846818, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1426965535368587, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 0.9998639124659559, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1375553874369986, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0500274089074217, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8740067296731358, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.143563319402151, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8247107128557708, TWAVE: 1.041296
+2023-08-18 01:48:51 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:48:52 - INFO - running task to keep loan database updated
+2023-08-18 01:48:52 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:48:52 - INFO - running task to settle any possible liquidations
+2023-08-18 01:49:07 - INFO - updating loan data
+2023-08-18 01:49:12 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:49:13 - INFO - native network token price updated: 1686.3700
+2023-08-18 01:49:28 - INFO - checking loans
+2023-08-18 01:49:28 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1425339696207653, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1412067546978526, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 0.9985603327086309, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1360722914302217, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0486584281313156, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8728672371218366, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.142072390510923, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8236354903404624, TWAVE: 1.039012
+2023-08-18 01:49:28 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:49:29 - INFO - running task to keep loan database updated
+2023-08-18 01:49:29 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:49:29 - INFO - running task to settle any possible liquidations
+2023-08-18 01:49:44 - INFO - updating loan data
+2023-08-18 01:49:48 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:49:49 - INFO - checking loans
+2023-08-18 01:49:49 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1412335749484597, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1399078706180201, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 0.9974238041054059, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1347792512279942, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0474648795198347, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8718737682754264, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1407725211928132, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8226980554527136, TWAVE: 1.037716
+2023-08-18 01:49:49 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:49:50 - INFO - running task to keep loan database updated
+2023-08-18 01:49:50 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:49:50 - INFO - running task to settle any possible liquidations
+2023-08-18 01:50:05 - INFO - updating loan data
+2023-08-18 01:50:09 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:50:10 - INFO - checking loans
+2023-08-18 01:50:10 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1398076170508098, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1384835691723023, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 0.99617753482102, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1333613579317419, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0461560845016638, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8707843722806738, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1393471393763956, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8216701039313897, TWAVE: 1.03642
+2023-08-18 01:50:10 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:50:11 - INFO - running task to keep loan database updated
+2023-08-18 01:50:11 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:50:11 - INFO - running task to settle any possible liquidations
+2023-08-18 01:50:26 - INFO - updating loan data
+2023-08-18 01:50:30 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:50:32 - INFO - native network token price updated: 1686.0600
+2023-08-18 01:50:47 - INFO - checking loans
+2023-08-18 01:50:47 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1383145940554287, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1369922805344568, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 0.9948726514839371, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1318767788289574, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0447857347447813, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.869643740236823, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1378547195562758, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8205938061935657, TWAVE: 1.034136
+2023-08-18 01:50:47 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:50:47 - INFO - running task to keep loan database updated
+2023-08-18 01:50:47 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:50:47 - INFO - running task to settle any possible liquidations
+2023-08-18 01:51:02 - INFO - updating loan data
+2023-08-18 01:51:07 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:51:08 - INFO - checking loans
+2023-08-18 01:51:08 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.135871665413503, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1345521896999264, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - bid for 1.0405624452495206 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 0.9927375625480039, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1294476663353001, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0425435277051693, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8677774041532914, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1354127778476555, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8188327358154764, TWAVE: 1.03284
+2023-08-18 01:51:08 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:51:09 - INFO - found won auctions: ['ab920b89-e859-434d-b1c3-1bb15608a3b7']
+2023-08-18 01:51:09 - INFO - liquidating user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85
+2023-08-18 01:51:12 - INFO - LIQUIDATION: price update and liquidation multicall submitted: 0xe3b5d824f59a667a19b8eaafa142f8a22ab69be652f143fad8d92df030d17738
+2023-08-18 01:51:12 - INFO - 2023-08-18 01:51:12 multicall submitted: 0xe3b5d824f59a667a19b8eaafa142f8a22ab69be652f143fad8d92df030d17738
+
+2023-08-18 01:51:12 - INFO - running task to keep loan database updated
+2023-08-18 01:51:12 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:51:12 - INFO - running task to settle any possible liquidations
+2023-08-18 01:51:27 - INFO - updating loan data
+2023-08-18 01:51:32 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:51:33 - INFO - native network token price updated: 1686.0100
+2023-08-18 01:51:48 - INFO - checking loans
+2023-08-18 01:51:48 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1343261136423812, TWAVE: 1.03037
+2023-08-18 01:51:48 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1330084333059487, TWAVE: 1.03037
+2023-08-18 01:51:48 - INFO - 
+2023-08-18 01:51:48 - INFO - User 0xf12656573a7809ec5463f8a65225afa8ff31ad85 liquidation information:
+2023-08-18 01:51:48 - INFO - 	Collateral: 0x2e232ac36756f034f66d0bb80b4e5761952c2063, Borrow: 0x45ad9d110a687b68ab06cb5bd6be2f9f72e101b5
+2023-08-18 01:51:48 - INFO - 	Liquidation Price: 0.9446, Total Collateral In USD: 4469.2232
+2023-08-18 01:51:48 - INFO - 	Total Borrow In USD: 3478.3462, Health Factor: 1.092139629942997
+2023-08-18 01:51:48 - INFO - 	profit potential: 529.5252990649326, bid amount: 0.05
+2023-08-18 01:51:48 - INFO - 	bid on $0.9445724445086231 TWAVE, TWAVE current price: 1.03037
+2023-08-18 01:51:48 - INFO - 	2023-08-18 01:51:48 placed bid: ecc22184-dc44-4b57-b273-426d87ced3c8
+
+2023-08-18 01:51:48 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1279108555368214, TWAVE: 1.03037
+2023-08-18 01:51:48 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0411249651643655, TWAVE: 1.03037
+2023-08-18 01:51:48 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8665966414449974, TWAVE: 1.03037
+2023-08-18 01:51:48 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1338678504732083, TWAVE: 1.03037
+2023-08-18 01:51:48 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.817718570876226, TWAVE: 1.03037
+2023-08-18 01:51:48 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:51:49 - INFO - found won auctions: ['ab920b89-e859-434d-b1c3-1bb15608a3b7']
+2023-08-18 01:51:49 - INFO - running task to keep loan database updated
+2023-08-18 01:51:49 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:51:49 - INFO - running task to settle any possible liquidations
+2023-08-18 01:52:04 - INFO - updating loan data
+2023-08-18 01:52:08 - INFO - found 58 loans, 51 of which under health factor of 1.2
+2023-08-18 01:52:10 - INFO - checking loans
+2023-08-18 01:52:10 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1318146864550767, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.130499923496796, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0897216047155216, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1254136318959451, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0388198877166646, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8646779741943923, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1313574378923457, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8159081209308677, TWAVE: 1.029012
+2023-08-18 01:52:10 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:52:11 - INFO - found won auctions: ['ab920b89-e859-434d-b1c3-1bb15608a3b7']
+2023-08-18 01:52:11 - INFO - running task to keep loan database updated
+2023-08-18 01:52:11 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:52:11 - INFO - running task to settle any possible liquidations
+2023-08-18 01:52:26 - INFO - updating loan data
+2023-08-18 01:52:30 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:52:31 - INFO - checking loans
+2023-08-18 01:52:31 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1302980721317109, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1289850709356322, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0882613944761852, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1239055948875276, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0374278849975243, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8635193189688892, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1298414362750417, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8148148165608475, TWAVE: 1.027716
+2023-08-18 01:52:31 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:52:32 - INFO - running task to keep loan database updated
+2023-08-18 01:52:32 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:52:32 - INFO - running task to settle any possible liquidations
+2023-08-18 01:52:47 - INFO - updating loan data
+2023-08-18 01:52:51 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:52:52 - INFO - native network token price updated: 1686.5400
+2023-08-18 01:53:07 - INFO - checking loans
+2023-08-18 01:53:07 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.128804971495097, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1274937047467453, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.086823823431027, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1224209385826154, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0360574639787488, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.862378627609088, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1283489388450558, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8137384628526306, TWAVE: 1.025494
+2023-08-18 01:53:07 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:53:09 - INFO - running task to keep loan database updated
+2023-08-18 01:53:09 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:53:09 - INFO - running task to settle any possible liquidations
+2023-08-18 01:53:24 - INFO - updating loan data
+2023-08-18 01:53:28 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:53:29 - INFO - native network token price updated: 1689.4600
+2023-08-18 01:53:44 - INFO - checking loans
+2023-08-18 01:53:44 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1240541372922372, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1227483893102572, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0822496765028824, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1176969730441206, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0316969788991348, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8587491096823249, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1236000239600283, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8103136581971528, TWAVE: 1.02321
+2023-08-18 01:53:44 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:53:45 - INFO - running task to keep loan database updated
+2023-08-18 01:53:45 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:53:45 - INFO - running task to settle any possible liquidations
+2023-08-18 01:54:00 - INFO - updating loan data
+2023-08-18 01:54:05 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:54:06 - INFO - checking loans
+2023-08-18 01:54:06 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1215480562867595, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1202452194725847, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0798367986285107, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1152050653493781, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0293968083677971, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8568345267802683, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1210949554011567, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8085070622335645, TWAVE: 1.021852
+2023-08-18 01:54:06 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:54:07 - INFO - running task to keep loan database updated
+2023-08-18 01:54:07 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:54:07 - INFO - running task to settle any possible liquidations
+2023-08-18 01:54:22 - INFO - updating loan data
+2023-08-18 01:54:26 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:54:27 - INFO - native network token price updated: 1690.5700
+2023-08-18 01:54:42 - INFO - checking loans
+2023-08-18 01:54:42 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1200580133771982, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1187569074587673, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.078402171591122, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1137234494783363, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0280291938399704, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8556961714470842, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1196055144629136, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8074329127946185, TWAVE: 1.01963
+2023-08-18 01:54:42 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:54:43 - INFO - running task to keep loan database updated
+2023-08-18 01:54:43 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:54:43 - INFO - running task to settle any possible liquidations
+2023-08-18 01:54:58 - INFO - updating loan data
+2023-08-18 01:55:03 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:55:04 - INFO - checking loans
+2023-08-18 01:55:04 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.119855200762026, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1185543304391543, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.078206901737225, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1135217838836355, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0278430451880383, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8555412277064463, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.119402783783219, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8072867082421186, TWAVE: 1.018272
+2023-08-18 01:55:04 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:55:05 - INFO - running task to keep loan database updated
+2023-08-18 01:55:05 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:55:05 - INFO - running task to settle any possible liquidations
+2023-08-18 01:55:20 - INFO - updating loan data
+2023-08-18 01:55:24 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:55:25 - INFO - native network token price updated: 1691.4400
+2023-08-18 01:55:40 - INFO - checking loans
+2023-08-18 01:55:40 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1184359945422853, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.117136772828316, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0768404769172382, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1121106040807203, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0265404471006645, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8544569898239242, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1179841509170596, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8062636239034722, TWAVE: 1.016049
+2023-08-18 01:55:40 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:55:42 - INFO - running task to keep loan database updated
+2023-08-18 01:55:42 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:55:42 - INFO - running task to settle any possible liquidations
+2023-08-18 01:55:57 - INFO - updating loan data
+2023-08-18 01:56:01 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:56:02 - INFO - checking loans
+2023-08-18 01:56:02 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1159929046564265, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1146965209371607, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0744882474730166, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1096813312550564, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0242980920656204, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8525905305540807, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.115542048029649, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8045024372870664, TWAVE: 1.014691
+2023-08-18 01:56:02 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:56:03 - INFO - running task to keep loan database updated
+2023-08-18 01:56:03 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:56:03 - INFO - running task to settle any possible liquidations
+2023-08-18 01:56:18 - INFO - updating loan data
+2023-08-18 01:56:22 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:56:23 - INFO - checking loans
+2023-08-18 01:56:23 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1144997831150238, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1132051338677686, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.073050656300535, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1081966541635841, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0229276518596844, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8514498232235461, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1140495297033195, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8034260685089027, TWAVE: 1.013395
+2023-08-18 01:56:23 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:56:24 - INFO - running task to keep loan database updated
+2023-08-18 01:56:24 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:56:24 - INFO - running task to settle any possible liquidations
+2023-08-18 01:56:39 - INFO - updating loan data
+2023-08-18 01:56:43 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:56:44 - INFO - native network token price updated: 1691.3200
+2023-08-18 01:56:59 - INFO - checking loans
+2023-08-18 01:56:59 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1130684327572509, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1117754462260334, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0716725389925972, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1067733989046318, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0216139074492792, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8503563075247897, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1126187576053108, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8023942296444839, TWAVE: 1.011173
+2023-08-18 01:56:59 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:57:00 - INFO - running task to keep loan database updated
+2023-08-18 01:57:00 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:57:00 - INFO - running task to settle any possible liquidations
+2023-08-18 01:57:15 - INFO - updating loan data
+2023-08-18 01:57:19 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:57:20 - INFO - native network token price updated: 1692.2700
+2023-08-18 01:57:35 - INFO - checking loans
+2023-08-18 01:57:35 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1105573395897623, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1092672700486854, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.069254835362477, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1042765073945, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0193091365768787, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8484378954569293, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1101086789093215, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8005840204889686, TWAVE: 1.008951
+2023-08-18 01:57:35 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:57:36 - INFO - running task to keep loan database updated
+2023-08-18 01:57:36 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:57:36 - INFO - running task to settle any possible liquidations
+2023-08-18 01:57:51 - INFO - updating loan data
+2023-08-18 01:57:55 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:57:56 - INFO - checking loans
+2023-08-18 01:57:56 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1082573761493593, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1069699783413613, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0670404093782082, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1019895515529925, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0171981480983712, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8466807811941716, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1078096446448606, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7989260115663714, TWAVE: 1.007654
+2023-08-18 01:57:56 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:57:58 - INFO - running task to keep loan database updated
+2023-08-18 01:57:58 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:57:58 - INFO - running task to settle any possible liquidations
+2023-08-18 01:58:13 - INFO - updating loan data
+2023-08-18 01:58:17 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 01:58:18 - INFO - native network token price updated: 1693.0100
+2023-08-18 01:58:33 - INFO - checking loans
+2023-08-18 01:58:33 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1068323338490842, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1055465914294218, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0656683655261292, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1005725686758918, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0158901934481275, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8455920846928011, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.10638517805592, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7978987200853729, TWAVE: 1.00537
+2023-08-18 01:58:33 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:58:34 - INFO - running task to keep loan database updated
+2023-08-18 01:58:34 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:58:34 - INFO - running task to settle any possible liquidations
+2023-08-18 01:58:49 - INFO - updating loan data
+2023-08-18 01:58:53 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 01:58:55 - INFO - checking loans
+2023-08-18 01:58:55 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1041784593105293, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1028957997417796, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.063113190676856, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.097933703304401, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0134543727407723, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8435645912460151, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1037323756719613, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7959855819949663, TWAVE: 1.004012
+2023-08-18 01:58:55 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:58:56 - INFO - running task to keep loan database updated
+2023-08-18 01:58:56 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:58:56 - INFO - running task to settle any possible liquidations
+2023-08-18 01:59:11 - INFO - updating loan data
+2023-08-18 01:59:15 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 01:59:16 - INFO - checking loans
+2023-08-18 01:59:16 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1027536008407106, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1014725964467522, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0617413238184341, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.0965169032180915, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0121465868166784, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8424760351864933, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1023080928392108, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7949584230345687, TWAVE: 1.002716
+2023-08-18 01:59:16 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:59:17 - INFO - running task to keep loan database updated
+2023-08-18 01:59:17 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:59:17 - INFO - running task to settle any possible liquidations
+2023-08-18 01:59:32 - INFO - updating loan data
+2023-08-18 01:59:36 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 01:59:37 - INFO - native network token price updated: 1693.2500
+2023-08-18 01:59:52 - INFO - checking loans
+2023-08-18 01:59:52 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1002274155275333, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.0989493456553785, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0593090893314383, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.0940050049169217, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0098279638346725, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.840546093098642, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.0997829280946985, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7931373341790657, TWAVE: 1.000494
+2023-08-18 01:59:52 - INFO - checking oev endpoint for auctions won
+2023-08-18 01:59:53 - INFO - running task to keep loan database updated
+2023-08-18 01:59:53 - INFO - running task to place bids if an opportunity is found
+2023-08-18 01:59:53 - INFO - running task to settle any possible liquidations
+2023-08-18 02:00:08 - INFO - updating loan data
+2023-08-18 02:00:12 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 02:00:14 - INFO - checking loans
+2023-08-18 02:00:14 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.0989401733510162, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.097663598792849, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0580697207077239, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.092725042825653, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0086464870529372, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8395626724284486, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.0984962059588224, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7922093807269733, TWAVE: 1.000864
+2023-08-18 02:00:14 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:00:15 - INFO - running task to keep loan database updated
+2023-08-18 02:00:15 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:00:15 - INFO - running task to settle any possible liquidations
+2023-08-18 02:00:30 - INFO - updating loan data
+2023-08-18 02:00:34 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 02:00:35 - INFO - native network token price updated: 1693.0700
+2023-08-18 02:00:51 - INFO - checking loans
+2023-08-18 02:00:51 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1014639719941852, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.100184465686669, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.060499657286853, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.095234567954788, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.010962919464084, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8414907911603985, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1010189849975314, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7940287490680975, TWAVE: 1.003148
+2023-08-18 02:00:51 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:00:51 - INFO - running task to keep loan database updated
+2023-08-18 02:00:51 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:00:51 - INFO - running task to settle any possible liquidations
+2023-08-18 02:01:06 - INFO - updating loan data
+2023-08-18 02:01:11 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 02:01:12 - INFO - checking loans
+2023-08-18 02:01:12 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.103975065161674, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.102692641864017, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0629173609169735, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.09773145946492, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0132676903364841, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8434092032282592, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1035290636935209, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7958389582236132, TWAVE: 1.004444
+2023-08-18 02:01:12 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:01:13 - INFO - running task to keep loan database updated
+2023-08-18 02:01:13 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:01:13 - INFO - running task to settle any possible liquidations
+2023-08-18 02:01:28 - INFO - updating loan data
+2023-08-18 02:01:32 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 02:01:33 - INFO - user 0xf12656573a7809ec5463f8a65225afa8ff31ad85 was liquidated 621 ago, flushing from completion queue.
+2023-08-18 02:01:33 - ERROR - task for update_loans() crashed: dictionary changed size during iteration
+2023-08-18 02:01:33 - INFO - checking loans
+2023-08-18 02:01:33 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1043637244326219, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1030808496522102, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0632915656427946, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.0981179206470573, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0136244156776892, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8437061291429672, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1039175659476932, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7961191368246128, TWAVE: 1.005741
+2023-08-18 02:01:33 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:01:34 - INFO - running task to keep loan database updated
+2023-08-18 02:01:34 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:01:34 - INFO - running task to settle any possible liquidations
+2023-08-18 02:01:49 - INFO - updating loan data
+2023-08-18 02:01:53 - INFO - found 58 loans, 53 of which under health factor of 1.2
+2023-08-18 02:01:54 - INFO - native network token price updated: 1693.6500
+2023-08-18 02:02:09 - INFO - checking loans
+2023-08-18 02:02:09 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1057871594674058, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1045026311657244, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0646620620048544, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.0995333053486651, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0149308951223386, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8447935977338978, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1053404259204709, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7971452696521828, TWAVE: 1.007963
+2023-08-18 02:02:09 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:02:10 - INFO - running task to keep loan database updated
+2023-08-18 02:02:10 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:02:10 - INFO - running task to settle any possible liquidations
+2023-08-18 02:02:25 - INFO - updating loan data
+2023-08-18 02:02:30 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:02:31 - INFO - checking loans
+2023-08-18 02:02:31 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1093358752687994, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1080472246314204, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0680787982639375, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1030619511476711, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0181880330570725, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8475047274151633, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1088877080550112, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.7997034852999239, TWAVE: 1.009321
+2023-08-18 02:02:31 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:02:32 - INFO - running task to keep loan database updated
+2023-08-18 02:02:32 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:02:32 - INFO - running task to settle any possible liquidations
+2023-08-18 02:02:47 - INFO - updating loan data
+2023-08-18 02:02:51 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:02:52 - INFO - native network token price updated: 1693.6900
+2023-08-18 02:03:07 - INFO - checking loans
+2023-08-18 02:03:07 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.110761833166449, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.109471526077138, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0694517236616017, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1044798444439234, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0194968280752437, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8485941234099158, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.110313089871429, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8007314368212477, TWAVE: 1.011543
+2023-08-18 02:03:07 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:03:08 - INFO - running task to keep loan database updated
+2023-08-18 02:03:08 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:03:08 - INFO - running task to settle any possible liquidations
+2023-08-18 02:03:23 - INFO - updating loan data
+2023-08-18 02:03:27 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:03:28 - INFO - checking loans
+2023-08-18 02:03:28 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1132729263339376, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.111979702254486, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0718694272917222, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1069767359540559, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.021801598947644, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8505125354777765, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1128231685674184, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8025416459767633, TWAVE: 1.01284
+2023-08-18 02:03:28 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:03:29 - INFO - running task to keep loan database updated
+2023-08-18 02:03:29 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:03:29 - INFO - running task to settle any possible liquidations
+2023-08-18 02:03:44 - INFO - updating loan data
+2023-08-18 02:03:49 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:03:50 - INFO - native network token price updated: 1693.0000
+2023-08-18 02:04:05 - INFO - checking loans
+2023-08-18 02:04:05 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.114697784803756, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1134029055495138, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0732412941501441, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1083935360403654, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.023109384871738, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8516010915372981, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.114247451400169, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8035688049371609, TWAVE: 1.015123
+2023-08-18 02:04:05 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:04:06 - INFO - running task to keep loan database updated
+2023-08-18 02:04:06 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:04:06 - INFO - running task to settle any possible liquidations
+2023-08-18 02:04:21 - INFO - updating loan data
+2023-08-18 02:04:25 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:04:27 - INFO - native network token price updated: 1694.2300
+2023-08-18 02:04:42 - INFO - checking loans
+2023-08-18 02:04:42 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1172088779712444, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1159110817268614, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0756589977802644, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1108904275504972, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0254141557441383, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8535195036051586, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1167575300961583, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8053790140926762, TWAVE: 1.017407
+2023-08-18 02:04:42 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:04:43 - INFO - running task to keep loan database updated
+2023-08-18 02:04:43 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:04:43 - INFO - running task to settle any possible liquidations
+2023-08-18 02:04:58 - INFO - updating loan data
+2023-08-18 02:05:02 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:05:03 - INFO - checking loans
+2023-08-18 02:05:03 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1185332733398312, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.117233938622769, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0769341378395034, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.112207332711443, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0266297330506997, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8545313083803102, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1180813904143645, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8063337507200455, TWAVE: 1.018704
+2023-08-18 02:05:03 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:05:04 - INFO - running task to keep loan database updated
+2023-08-18 02:05:04 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:05:04 - INFO - running task to settle any possible liquidations
+2023-08-18 02:05:19 - INFO - updating loan data
+2023-08-18 02:05:23 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:05:24 - INFO - checking loans
+2023-08-18 02:05:24 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1200248048037478, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1187237374617753, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0783701980707356, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1136904287182203, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.027998713826806, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8556708009316096, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1195723193055929, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.807408973235354, TWAVE: 1.02
+2023-08-18 02:05:24 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:05:25 - INFO - running task to keep loan database updated
+2023-08-18 02:05:25 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:05:25 - INFO - running task to settle any possible liquidations
+2023-08-18 02:05:40 - INFO - updating loan data
+2023-08-18 02:05:44 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:05:45 - INFO - native network token price updated: 1694.0400
+2023-08-18 02:06:01 - INFO - checking loans
+2023-08-18 02:06:01 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.12256968807837, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1212656644942647, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0808204351272286, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1162209192332484, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.030334498464727, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.857615027792063, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.122116174457649, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8092435411689872, TWAVE: 1.022284
+2023-08-18 02:06:01 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:06:02 - INFO - running task to keep loan database updated
+2023-08-18 02:06:02 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:06:02 - INFO - running task to settle any possible liquidations
+2023-08-18 02:06:17 - INFO - updating loan data
+2023-08-18 02:06:21 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:06:23 - INFO - native network token price updated: 1692.0400
+2023-08-18 02:06:38 - INFO - checking loans
+2023-08-18 02:06:38 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1250137161481275, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1237068534794854, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0831735678635492, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1186511249368485, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0325777145984159, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8594822038108256, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.124559215149936, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8110054041080023, TWAVE: 1.024568
+2023-08-18 02:06:38 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:06:38 - INFO - running task to keep loan database updated
+2023-08-18 02:06:38 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:06:38 - INFO - running task to settle any possible liquidations
+2023-08-18 02:06:53 - INFO - updating loan data
+2023-08-18 02:06:58 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:06:59 - INFO - checking loans
+2023-08-18 02:06:59 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1275405948839445, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1262307968879897, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0856064699842491, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1211637127389589, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0348969740284524, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8614126756561455, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1270850730369482, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8128269928414175, TWAVE: 1.025864
+2023-08-18 02:06:59 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:07:00 - INFO - running task to keep loan database updated
+2023-08-18 02:07:00 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:07:00 - INFO - running task to settle any possible liquidations
+2023-08-18 02:07:15 - INFO - updating loan data
+2023-08-18 02:07:19 - INFO - found 58 loans, 52 of which under health factor of 1.2
+2023-08-18 02:07:20 - INFO - native network token price updated: 1691.3800
+2023-08-18 02:07:35 - INFO - checking loans
+2023-08-18 02:07:35 - INFO - bid for 0.9094730651846399 out for user: 0xfe875d929c06daa2e65ab167a2d937a69d2beed1, HF: 1.1290336387819402, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - bid for 0.9106218377430952 out for user: 0xf539d223a71b505ff5ec5bd4850dd1ba69f274c2, HF: 1.1277221064041685, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - bid for 0.9445724445086231 out for user: 0xf12656573a7809ec5463f8a65225afa8ff31ad85, HF: 1.0870439864009431, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - bid for 0.91473738075199 out for user: 0xe71e7aa845045a53d063dd44dc3636c425df9e63, HF: 1.1226483126261417, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - bid for 0.9908887808971601 out for user: 0xe3bff9fe31d149f2503857d743066499eee5d322, HF: 1.0362673429705003, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - bid for 1.1898119795218953 out for user: 0xd42450fb6e33e0b50d0efd379420eabaeecb5425, HF: 0.8625533236690685, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - bid for 0.9098406371278384 out for user: 0xce869eeae958f4352012050fb6ddc644ccfd928a, HF: 1.1285775137512384, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - bid for 1.2617326528489197 out for user: 0xcae3173590ce4e7d71207bdfda54a851dd6a7de4, HF: 0.8139033056476213, TWAVE: 1.028086
+2023-08-18 02:07:35 - INFO - checking oev endpoint for auctions won
+2023-08-18 02:07:36 - INFO - running task to keep loan database updated
+2023-08-18 02:07:36 - INFO - running task to place bids if an opportunity is found
+2023-08-18 02:07:36 - INFO - running task to settle any possible liquidations

@@ -11,11 +11,11 @@ class Deployer:
         address, abi = deploy_returns_address_abi(absolute_path, self.web3, account.privateKey, args=args)
         contract = load_contract(self.web3, address, abi)
         self.deployed_contract_objects[name] = contract
-        print(f'{name.lower()} contract deployed at : {address} ')
+        logging.info(f'{name.lower()} contract deployed at : {address} ')
         return address, abi
 
     def run_deploys(self, account):
-        print(f'{self.name} deploying contracts.....')
+        logging.info(f'{self.name} deploying contracts.....')
 
         name = "OevSearcherMulticallV1"
         absolute_path = self.dir + "/contracts/OevSearcherMulticallV1.sol"
@@ -32,7 +32,7 @@ class Deployer:
         function = OSM_contract.functions.transferOwnership(FL_contract.address)
         tx_params = get_tx_params(web3=self.web3, account=account, value=0, gas=1000000)
         tx = build_and_send_and_wait(self.web3, account, function, tx_params)
-        print(f'OEV contract owner set to flashloan receiver, tx: {tx}')
+        logging.info(f'OEV contract owner set to flashloan receiver, tx: {tx}')
 
         envfile = open(self.dir+"/.env", "a")
         envfile.write('\n' + f'FL_ADDRESS={FL}')
@@ -47,7 +47,7 @@ class Deployer:
         function = self.flashloanreciver.functions.transferOwnership("0x4152465e8A592a8b4D2c74141d8a0013895a15fC")
         tx_params = get_tx_params(web3=self.web3, account=account, value=0, gas=1000000)
         tx = build_and_send_and_wait(self.web3, account, function, tx_params)
-        print(f'tx: {tx}')
+        logging.info(f'tx: {tx}')
 
 
 if __name__ == "__main__":
